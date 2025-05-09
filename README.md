@@ -1,1 +1,1 @@
-# ai-powerful-disease-with-patientt
+# ai-powerful-disease-with-patient
